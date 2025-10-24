@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on project
 - 📫 How to reach me: Discord: _Lopy.
-- 😄 Pronouns: Cool Guy's
-- ⚡ Fun fact: I'm a passionnate of remoting control
 
 <!---
 Lopy-Code/Lopy-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

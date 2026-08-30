@@ -1,4 +1,4 @@
-J'aime codé à mes heures perdues
+J'aime coder à mes heures perdues... Enfin plus souvent, plus le temps passe
 
 <!---
 Lopy-Code/Lopy-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
